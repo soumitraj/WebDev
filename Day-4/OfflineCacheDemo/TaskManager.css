@@ -1,0 +1,16 @@
+	.completed {
+		color : red;
+		font-style: italic;
+		text-decoration: line-through;
+	}
+	.style1{
+		color : red;
+	}
+	.style2 {
+		font-style: italic;
+	}
+
+	.hint{
+		color : grey;
+		font-style: italic;
+	}
